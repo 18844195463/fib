@@ -1,5 +1,6 @@
 #pragma once
 #ifndef TYPE_COUNT
+
 #include "datatype.h"
 extern char state[MAX_STRING_SIZE_ALL];
 #endif
